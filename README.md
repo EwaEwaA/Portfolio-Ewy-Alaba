@@ -49,7 +49,7 @@ On this site I would like to share my all gained experience from personal studie
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
 # My bug reports
-  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
+  - [Bugs reported for MrBuggy7 application](https://drive.google.com/drive/folders/1IbhVkbKTic4fYGM_sTxmDyGq_0dCybws?usp=sharing)
 # My examples of diagrams and decision tables
   - [Diagrams and decision tables for stoper, railway lights and registration](https://drive.google.com/file/d/1jDg-xa5rFRCqwA4Cl1hcMg7UcEmo09Ky/view)
 # My examples of CSS Selectors and xPaths
