@@ -26,6 +26,7 @@ On this site I would like to share my all gained experience from personal studie
   - Reporting bugs
   - Creating diagrams and decision tables
 # Courses
+
   - Praktyczny kurs testowania oprogramowania (https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
   - SQL https://www.w3schools.com/
  # Books
