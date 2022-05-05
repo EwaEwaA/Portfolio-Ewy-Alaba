@@ -19,25 +19,31 @@ On this site I would like to share my all gained experience from personal studie
   - Creating test cases
   - Reporting bugs
   - Creating diagrams and decision tables
+  - 
 # Courses
-
+  - Akademia Testowania - tworzenie scenariuszy testowych, raportowanie błędów, Chrome devTools, wiedza ISTQB
   - Praktyczny kurs testowania oprogramowania (https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-  - SQL https://www.w3schools.com/
+  - SQL - kurs on-line testuj.pl oraz https://www.w3schools.com/
+  
  # Books
   - "Fun with bugs" K.Pawłowska & N.Pawlak
   - Syllabus ISTQB ver. 3.1.
+
 # Groups on Facebook
   - Testowanie oprogramowania
   - AppQa - Mobile Testing Meetup
   - Girls Who Tests
   - Gildia Testerów
+
 # Recommended blogs
   - testerzy.pl
   - testuj.pl - Test, Bugs & Rock'n'Roll
   - remigiuszbednarczyk.pl
   - pwicherski.gitbook.io
+
 # Webinars
   - Her Way To It - mamopracuj.pl
+
 # Workshops
   - Workshops for Women in IT - Cracow 11-12.02.2022
 
