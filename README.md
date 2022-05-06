@@ -9,16 +9,14 @@ On this site I would like to share my all gained experience from personal studie
 
 # Tools
   - Microsoft SQL Server Management Studio 
-  - xPath Finder - xPath finding tool
   - Jira with Zephyr plugin
   - Github
-  - PicPick-  Screen capture software
+  - PicPick - Screen capture software
 # Tech skills
-  - SQL - joining table, filtering, sorting, grouping
+  - SQL - joining tables, filtering, sorting and grouping
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - Creating diagrams and decision tables
   
 # Courses
   - Akademia Testowania - tworzenie scenariuszy testowych, raportowanie błędów, Chrome devTools, wiedza ISTQB
