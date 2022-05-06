@@ -8,11 +8,11 @@ I have developped my testing knowledge and skills as well as I made a SQL and IS
 On this site I would like to share my all gained experience from personal studies and researches.
 
 # Tools
-  - PicPick-  Screen capture software
-  - Jira with Zephyr plugin
   - Microsoft SQL Server Management Studio 
   - xPath Finder - xPath finding tool
+  - Jira with Zephyr plugin
   - Github
+  - PicPick-  Screen capture software
 # Tech skills
   - SQL - joining table, filtering, sorting, grouping
   - Software testing
@@ -49,23 +49,8 @@ On this site I would like to share my all gained experience from personal studie
 
 # My bug reports
   - Bugs reported for MrBuggy7 application - https://drive.google.com/drive/folders/1IbhVkbKTic4fYGM_sTxmDyGq_0dCybws?usp=sharing
-# SQL skills
+
+# My SQL skills
   - https://drive.google.com/file/d/1nBPXE4iYwOoP6aesdwHjWVZh6Q6XYRea/view?usp=sharing
 
--------------------------------------------------------------------------------
-NA PRZYSZŁOŚĆ
-# My test case examples
-  - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
-# My examples of diagrams and decision tables
-  - [Diagrams and decision tables for stoper, railway lights and registration](https://drive.google.com/file/d/1jDg-xa5rFRCqwA4Cl1hcMg7UcEmo09Ky/view)
-# My examples of CSS Selectors and xPaths
-  - [Finding uniqe CSS Selectors and xPaths on site ikea.pl](https://drive.google.com/file/d/1lmKfiTYA3y2gaFRNU5nNoFZy0evKpy3a/view)
-# My projects
-  - Group project - leader - testing site [allegro.pl](https://allegro.pl/)
-     - [Tablica trello.com](https://trello.com/b/fZE6cidI/allegropl)
-  - Individual project - testing site [zara.com](https://www.zara.com/pl/)
-     - [Report](https://drive.google.com/file/d/1AlygpsNK0Og1H7g8RRQjQs1e9LRotXYw/view)
-     - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
-     - [Test cases - regression testing](https://drive.google.com/file/d/1R5v7_HHsPG_CWcFRJJl0OmJ2qRvBJSNE/view)
-     - [Mind map](https://drive.google.com/file/d/1K8TamEa_IVchmcMzCX_bHoO0gVo22cym/view)
-     - [Automated Postman tests](https://drive.google.com/file/d/15kAl0pI02FJYXOYu_KyIKN2XcvBK3Cmm/view)
+
