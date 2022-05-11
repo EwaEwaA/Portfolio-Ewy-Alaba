@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio for a software tester position
+Portfolio for a Software QA position
 
 # About me
 My name is Ewa. I am an ambitious person who is looking for a junior software tester position. I have graduated from University of Warsaw - faculty of Management. I have rich experience in PR and marketing and now I am looking for new challenges in IT.
@@ -9,6 +9,7 @@ On this site I would like to share my all gained experience from personal studie
 
 # Tools
   - Microsoft SQL Server Management Studio 
+  - Chrome DevTools
   - Jira with Zephyr plugin
   - Github
   - PicPick - Screen capture software
