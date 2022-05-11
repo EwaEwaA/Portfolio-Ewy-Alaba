@@ -47,6 +47,7 @@ On this site I would like to share my all gained experience from personal studie
 
 # My bug reports
   - Bugs reported for MrBuggy7 application - https://drive.google.com/drive/folders/1IbhVkbKTic4fYGM_sTxmDyGq_0dCybws?usp=sharing
+  - Bugs reported for skleptest.pl - https://drive.google.com/file/d/1TMbvVUWMiDc25Wq6ubaTtqgD8txWEcnf/view?usp=sharing
 
 # My SQL skills
   - https://drive.google.com/file/d/1nBPXE4iYwOoP6aesdwHjWVZh6Q6XYRea/view?usp=sharing
