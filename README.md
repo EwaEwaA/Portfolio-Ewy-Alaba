@@ -47,6 +47,7 @@ On this site I would like to share my all gained experience from personal studie
   - Workshops for Women in IT - Cracow 11-12.02.2022
 
 # My bug reports
+  - 5 test reports for application KanbanPomodoro https://drive.google.com/drive/folders/1Chl3EEly3Qf2QvjQopYebNlWBuCtCv3R?usp=sharing
   - Bugs reported for MrBuggy7 application - https://drive.google.com/drive/folders/1IbhVkbKTic4fYGM_sTxmDyGq_0dCybws?usp=sharing
   - Bugs reported for skleptest.pl - https://drive.google.com/file/d/1TMbvVUWMiDc25Wq6ubaTtqgD8txWEcnf/view?usp=sharing
 
