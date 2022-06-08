@@ -2,10 +2,8 @@
 Portfolio for a Software QA position
 
 # About me
-My name is Ewa. I am an ambitious person who is looking for a junior software tester position. I have graduated from University of Warsaw - faculty of Management. I have rich experience in PR and marketing and now I am looking for new challenges in IT.
-
-I have developped my testing knowledge and skills as well as I made a SQL and ISTQB course.
-On this site I would like to share my all gained experience from personal studies and researches.
+My name is Ewa. I am an ambitious person who work as an Sortware QA in Intiaro. I have graduated from University of Warsaw - faculty of Management. I have testing and organizational skills. I made a SQL and ISTQB course as well as pratice in TestArmy.
+On this site I would like to share my all experience I gained in testing domain.
 
 # Tools
   - Microsoft SQL Server Management Studio 
@@ -15,7 +13,7 @@ On this site I would like to share my all gained experience from personal studie
   - PicPick - Screen capture software
 # Tech skills
   - SQL - joining tables, filtering, sorting and grouping
-  - Software testing
+  - Test Reports
   - Creating test cases
   - Reporting bugs
   
@@ -23,7 +21,10 @@ On this site I would like to share my all gained experience from personal studie
   - Akademia Testowania - tworzenie scenariuszy testowych, raportowanie błędów, Chrome devTools, wiedza ISTQB
   - Praktyczny kurs testowania oprogramowania (https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
   - SQL - kurs on-line testuj.pl oraz https://www.w3schools.com/
-  
+ 
+ # Practice
+  - 3 month practice in TestArmy
+ 
  # Books
   - "Fun with bugs" K.Pawłowska & N.Pawlak
   - Syllabus ISTQB ver. 3.1.
