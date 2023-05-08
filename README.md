@@ -2,15 +2,20 @@
 Portfolio for a Software QA position
 
 # About me
-My name is Ewa. I am an ambitious person who work as an Sortware QA in Intiaro. I have graduated from University of Warsaw - faculty of Management. I have testing and organizational skills. I made a SQL and ISTQB course as well as pratice in TestArmy.
-On this site I would like to share my all experience I gained in testing domain.
+ I am an ambitious person. I am determined to have a job both interesting and giving me a possibility to develop. I have always liked learning new things so IT is a natural choice as a professional area. Being a tester enables me to be up-to-date with new technologies that we can encounter everywhere, therefore, one year ago I chose a testing career and I don’t regret it.
+
+I like to be the best at what I do. Application development process requires automation so I would like to pursue an automation tester career path. I am a self-motivated person. Therefore, I have started learning Java. Using Selenium is the next step to master on my checklist. 
+I am a communicative person and I enjoy cooperating with people. That’s why I can train people in testing area in the future.
 
 # Tools
+  - Postman
+  - TestLink/RailTest
   - Microsoft SQL Server Management Studio 
   - Chrome DevTools
-  - Jira with Zephyr plugin
-  - Github
-  - PicPick - Screen capture software
+  - Jira with Zephyr plugin/Redmine
+  - Github/GIT
+  - Chat GPT - using AI at work
+  
 # Tech skills
   - SQL - joining tables, filtering, sorting and grouping
   - Test Reports
