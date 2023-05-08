@@ -17,9 +17,9 @@ I am a communicative person and I enjoy cooperating with people. That’s why I 
   - Chat GPT - using AI at work
   
 # Tech skills
+  - testing API with Postman
   - SQL - joining tables, filtering, sorting and grouping
-  - Test Reports
-  - Creating test cases
+  - Test documentation: test reports, plan tests, test scenarios
   - Reporting bugs
   
 # Courses
